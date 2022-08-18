@@ -53,11 +53,6 @@ Para visualizar empleados:
 ```
 localhost:1234/empleados
 ```
-Para eliminar un empleado:
-- utilizando delete, especificar el id del empleado a borrar
-```
-localhost:1234/empleado/#id
-```
 Para visualizar un empleado en especifico:
 - por get, ir al siguiente endpoint
 ```
