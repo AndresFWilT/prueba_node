@@ -41,7 +41,7 @@ Para actualizar un empleado:
 ```
 localhost:1234/empleado/#id
 ```
-cambiar el #id con el valor o id deseado
+cambiar el #id con el valor o id deseado  
 Para eliminar un empleado:
 - utilizando delete, especificar el id del empleado a borrar
 ```
