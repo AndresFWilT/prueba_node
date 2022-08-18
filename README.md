@@ -47,7 +47,7 @@ Para eliminar un empleado:
 ```
 localhost:1234/empleado/#id
 ```
-cambiar el #id con el valor o id deseado
+cambiar el #id con el valor o id deseado  
 Para visualizar empleados:
 - por get, ir al siguiente endpoint
 ```
